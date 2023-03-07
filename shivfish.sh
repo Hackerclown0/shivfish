@@ -35,7 +35,7 @@ echo -e "\033[31m  koc::,lldlcoOkOkolol,'':::coll::ocl::......';:lolxkxdo:..,..'
 
 
 
-printf " \e[1;93m Hax0Fish v3.0\e[0m \n"
+printf " \e[1;93m Shivfish v3.0\e[0m \n"
 printf " \e[1;77m @www.hackersclown.in | youtube.com/hacker0 \e[0m \n"
 printf " \e[1;77m Author:- sani kuhshwah  \n"
 
